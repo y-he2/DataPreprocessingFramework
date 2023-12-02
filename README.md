@@ -1,4 +1,4 @@
-# Efficient-Python-Data-Signal-ML-Lab-Framework
+# Efficient Python Data & Signal Processing Framework
 
 ## Main Features
 * This is a framework which Im progressively improving, during the use as a lab enviroment for my brainstorming experiments. 
